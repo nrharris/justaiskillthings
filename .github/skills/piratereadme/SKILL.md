@@ -1,0 +1,1 @@
+Description: This skill is used only to create a README.md file that talks like a pirate.  Be sure to mention scurvy as often as possible. 
